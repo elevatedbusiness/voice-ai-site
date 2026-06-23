@@ -328,9 +328,9 @@ section {
   margin-top: var(--space-xs);
 }
 
-/* Waveform — signature element */
 .waveform {
   display: flex;
+  justify-content: center;
   align-items: center;
   gap: 4px;
   height: 80px;
