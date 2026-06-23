@@ -392,6 +392,9 @@ section {
 }
 .demo-block h2 { color: var(--color-cream); margin-bottom: var(--space-sm); }
 .demo-block .lede { color: rgba(250,249,245,0.8); margin: 0 auto var(--space-lg); }
+.lede {
+  margin-bottom: 1rem;
+}
 
 .demo-number {
   font-family: var(--font-display);
