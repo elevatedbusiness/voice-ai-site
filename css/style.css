@@ -334,6 +334,7 @@ section {
   align-items: center;
   gap: 4px;
   height: 80px;
+ padding-bottom: var(--space-sm);
 }
 .waveform .bar {
   width: 5px;
