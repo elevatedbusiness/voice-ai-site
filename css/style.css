@@ -591,9 +591,9 @@ section {
 
 .price-row {
   display: flex;
-  align-items: baseline;
-  justify-content: center;
-  gap: 0.5rem;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.2rem;
   margin: var(--space-md) 0 0.3rem;
 }
 .price-strike {
@@ -602,6 +602,11 @@ section {
   color: var(--color-slate);
   text-decoration: line-through;
   opacity: 0.7;
+}
+.price-main {
+  display: flex;
+  align-items: baseline;
+  gap: 0.3rem;
 }
 .price-now {
   font-family: var(--font-display);
