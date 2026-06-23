@@ -587,6 +587,9 @@ section {
   text-transform: uppercase;
   padding: 0.35rem 1rem;
   border-radius: 999px;
+  white-space: nowrap;
+  width: max-content;
+  height: auto;
 }
 
 .price-row {
