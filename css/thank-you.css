@@ -1,0 +1,19 @@
+/* ============================================
+   Thank You / Form page — page-specific styles
+   (everything else is inherited from style.css)
+   ============================================ */
+
+.thank-you-hero {
+  padding-top: var(--space-xl);
+  padding-bottom: var(--space-lg);
+}
+
+.thank-you-hero .section-head {
+  margin-bottom: 0;
+}
+
+/* Tally iframe sits inside the existing .signup-block styling,
+   this just makes sure it doesn't look cramped */
+.signup-block iframe {
+  border-radius: var(--radius-md);
+}
