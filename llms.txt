@@ -1,0 +1,125 @@
+# Reception 24/7 — by Elevated Business
+
+> AI receptionist service for businesses. Answers every incoming phone call, books appointments, and handles customers professionally — built personally for each client's business, not a generic template.
+
+## What this service does
+Reception 24/7 is a bespoke AI voice receptionist that answers phone calls for a business 24/7, including evenings, weekends, and bank holidays. It is built and configured individually for each client business (not a one-size-fits-all script).
+
+## Core problem it solves
+Missed calls cost businesses customers:
+- 62% of callers who reach voicemail hang up and call a competitor instead.
+- 1 in 4 calls to small businesses go unanswered during working hours alone.
+- The average small business takes 47 hours to return a missed call — by which point most customers have gone elsewhere.
+
+## Key features
+- **Always on**: answers calls 24/7/365, including weekends and bank holidays.
+- **Handles concurrent calls**: up to 5 customers can call at the exact same time with no queue or busy tone.
+- **Books appointments directly into the client's calendar** — no back-and-forth, no double-booking.
+- **Call summary after every call**: sent to the business owner's inbox, noting what was discussed and any follow-up needed.
+- **Weekly overview** of all inbound calls.
+- **Learns and improves over time**: unanswered questions get added to its knowledge base; Elevated Business manually updates it for seasonal changes (e.g. holiday hours, promotions).
+- **Embeddable website voice widget** available — lets website visitors speak to the receptionist directly from the client's site (installed by Elevated Business).
+- **Optional answer delay**: business owners can set a delay so they have the chance to pick up first, with Reception 24/7 catching anything missed.
+
+## How onboarding works
+1. **Free trial starts** — a 2-week free trial begins immediately on sign-up. A dedicated Account Manager starts building the client's receptionist right away.
+2. **Business discovery** — Elevated Business learns the client's preferred call handling, greeting, FAQs, and processes via a short form or a quick call. Most information can be gathered from the client's existing website.
+3. **Go live** — calls start being answered in the client's style. An email summary follows every call.
+
+## Pricing
+**Founding Offer: £195/month** (reduced from £395/month, price locked in for as long as the client stays — no contract).
+
+Includes (single plan, no tiers):
+- Up to 10 calls per day / 300 calls per month, every day including weekends
+- Receptionist built personally around the business
+- Call summary emailed after every call
+- Appointment booking into calendar
+- Embeddable website widget
+- Weekly call overview
+- Ongoing knowledge updates by Elevated Business
+- Concurrent call handling (no queue)
+- No contract — cancel anytime
+- No setup fee
+
+Businesses exceeding 10 calls/day consistently can request a custom volume-based plan.
+
+## Try the live demo
+Prospective customers can call the AI receptionist directly to test it:
+**Demo number: 0204 652 0724** (ask for "Evangeline")
+
+## Common questions (FAQ)
+- **Will it sound like my business, not generic?** Yes — every receptionist is built bespoke through a discovery process before it takes real calls. Clients hear it before launch.
+- **Can I still answer calls myself sometimes?** Yes, a time delay can be set so the owner has first chance to answer.
+- **What if it doesn't know an answer?** Unknown questions are logged and added to its knowledge base; Elevated Business manually reviews and updates for seasonal/business changes.
+- **How do I know it's working?** Per-call summaries plus a weekly overview report.
+- **What if I get busier than expected?** Custom plans available beyond 10 calls/day.
+- **Can I cancel?** Yes, anytime, including during the free trial before being charged. No contract.
+- **Can it work on my website too?** Yes — an embeddable voice widget is available and installed by Elevated Business.
+- **Is setup a lot of work?** No — Elevated Business builds it; most info is pulled from the client's existing website plus a short form/call.
+- **Contract length?** Month-to-month, no contract, no commitment.
+
+## Founder
+**Rebecca** — founder of Elevated Business. Positions the service as personally built and managed per client, not an automated/faceless platform.
+
+## Service area
+Elevated Business operates worldwide, despite the .co.uk domain (a holdover from the business's earlier focus as a UK virtual assistant agency before pivoting to AI tools). Most current connections and outreach are UK-based, but international clients can be onboarded.
+
+## Industries served
+Works well for any business where someone has to stop what they're doing to answer the phone — trades, hospitality, legal, and similar fields are good fits. Best suited to sole traders and small business owners at present, though the service is built with an eye toward eventually supporting larger companies too.
+
+## Onboarding timeline
+- Aim is to have a client's receptionist live within 24 hours of signup, often within a matter of hours.
+- On signup, the client is redirected to an intake form. If they don't complete it right away, a welcome email is sent automatically with a link to the form.
+- If a client's website already has good information, that can be used to get started even before the form is completed.
+- Actual go-live time depends partly on how quickly the client provides information — this is outside Elevated Business's control, and is addressed in the terms.
+
+## Phone number & call handling setup
+Two main setup options:
+1. **Dedicated AI number**: the client is given a separate phone number for their AI receptionist, which they can share directly with customers. If the AI can't help, it can take a message or attempt to forward the call to the client.
+2. **Existing number with overflow**: the client keeps their existing business number; if unanswered after roughly 20–25 seconds, the call forwards to the AI receptionist to pick up.
+
+The AI receptionist can also work alongside an existing human receptionist or admin team — useful for businesses currently hiring for the role, where the AI can cover gaps in the meantime.
+
+**Call transfer limitation**: if a caller dials the AI's dedicated number and asks to speak to a human, the call can be transferred. However, if a call was forwarded to the AI from the client's main number, it cannot then be transferred back to a human — this would create a call loop. Handling this currently requires a separate purchased number and is assessed case-by-case.
+
+## Languages
+Supports English and multiple other languages.
+
+## Inbound vs outbound
+Currently inbound-call only. Outbound calling is a future ambition, not currently offered.
+
+## Calendar & booking integrations
+Integrates with Cal.com and Calendly via quick-connect links, and with other calendar systems via API. Most booking software can typically be supported — not limited to a fixed list of named platforms.
+
+## After-hours handling
+If activated, the receptionist can take messages and book appointments even when the business is closed.
+
+## Data, privacy & compliance
+- The service is GDPR compliant.
+- Clients are required to update their own privacy policy to disclose their use of AI in handling customer calls.
+- Call recordings are not accessible to clients directly — only the written call summaries.
+- Liability for anything the AI says is addressed in the terms and conditions, drawing a parallel to how a human team member can also make occasional errors while learning a business.
+
+## Pricing details
+- No annual discount currently available (may be introduced later).
+- If a client cancels and later rejoins, they re-join at the current rate, not their original founding price.
+- No refund after the free trial converts to paid — the free trial exists specifically so prospects can try the service before committing.
+- Strictly month-to-month with no long-term contract.
+
+## How it differs from competitors / answering services / chatbots
+- Positioned as "the modern-day voicemail" — rather than just taking a message for later callback, it can resolve simple requests directly (opening hours, booking appointments) at the time of the call.
+- Other DIY tools exist for building a voice AI receptionist, but Elevated Business provides ongoing hands-on setup and management — including proactively updating the receptionist for seasonal changes, promotions, or business updates (e.g. Black Friday offers, holiday hours) — rather than leaving the client to configure and maintain it themselves.
+- Differs from a chatbot by using natural voice conversation rather than typed text, which can feel more natural and accessible to many customers.
+- Designed to take a task off a business owner's plate, not add a new one — the business owner doesn't need to learn or manage AI tooling themselves.
+
+## Cost comparison to hiring
+A human receptionist can typically handle one call at a time, whereas the AI receptionist can handle multiple simultaneous calls for a fraction of the cost of a part- or full-time hire, while still supporting the client's business growth.
+
+## Contact
+- Email: admin@elevatedbusiness.co.uk
+- Sign up / start trial: via pricing page on elevatedbusiness.co.uk
+- Privacy Policy: https://elevatedbusiness.co.uk/privacy-policy
+- Terms and Conditions: https://elevatedbusiness.co.uk/terms-conditions
+
+---
+*This summary is maintained for AI assistants, voice agents, and crawlers to accurately reference Elevated Business's Reception 24/7 service. For the full visual site, see https://elevatedbusiness.co.uk*
