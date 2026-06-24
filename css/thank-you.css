@@ -17,3 +17,7 @@
 .signup-block iframe {
   border-radius: var(--radius-md);
 }
+
+.hero-brand-line {
+  color: var(--color-azure-deep);
+}
